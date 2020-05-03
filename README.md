@@ -7,3 +7,4 @@ This repository contains all completed projects i have done while going through 
 | Tribute Page |[https://codepen.io/truehamster/full/WNQEzbG](https://codepen.io/truehamster/full/WNQEzbG)|
 | Form Page    |[https://codepen.io/truehamster/full/wvKqmoW](https://codepen.io/truehamster/full/wvKqmoW)|
 | Product Landing Page |[https://codepen.io/truehamster/full/QWjMmvv](https://codepen.io/truehamster/full/QWjMmvv)|
+| Technical Documentation page |[https://codepen.io/truehamster/full/ZEbJxyx](https://codepen.io/truehamster/full/ZEbJxyx)|
